@@ -1,0 +1,12 @@
+C:\Users\dogu1\Desktop\Hafta4\Dogukan_Kisecuklu_Hafta_4\Dto\bin\Debug\net5.0\Dto.deps.json
+C:\Users\dogu1\Desktop\Hafta4\Dogukan_Kisecuklu_Hafta_4\Dto\bin\Debug\net5.0\Dto.dll
+C:\Users\dogu1\Desktop\Hafta4\Dogukan_Kisecuklu_Hafta_4\Dto\bin\Debug\net5.0\Dto.pdb
+C:\Users\dogu1\Desktop\Hafta4\Dogukan_Kisecuklu_Hafta_4\Dto\obj\Debug\net5.0\Dto.csproj.AssemblyReference.cache
+C:\Users\dogu1\Desktop\Hafta4\Dogukan_Kisecuklu_Hafta_4\Dto\obj\Debug\net5.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogu1\Desktop\Hafta4\Dogukan_Kisecuklu_Hafta_4\Dto\obj\Debug\net5.0\Dto.AssemblyInfoInputs.cache
+C:\Users\dogu1\Desktop\Hafta4\Dogukan_Kisecuklu_Hafta_4\Dto\obj\Debug\net5.0\Dto.AssemblyInfo.cs
+C:\Users\dogu1\Desktop\Hafta4\Dogukan_Kisecuklu_Hafta_4\Dto\obj\Debug\net5.0\Dto.csproj.CoreCompileInputs.cache
+C:\Users\dogu1\Desktop\Hafta4\Dogukan_Kisecuklu_Hafta_4\Dto\obj\Debug\net5.0\Dto.dll
+C:\Users\dogu1\Desktop\Hafta4\Dogukan_Kisecuklu_Hafta_4\Dto\obj\Debug\net5.0\refint\Dto.dll
+C:\Users\dogu1\Desktop\Hafta4\Dogukan_Kisecuklu_Hafta_4\Dto\obj\Debug\net5.0\Dto.pdb
+C:\Users\dogu1\Desktop\Hafta4\Dogukan_Kisecuklu_Hafta_4\Dto\obj\Debug\net5.0\ref\Dto.dll
